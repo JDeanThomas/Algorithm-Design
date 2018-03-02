@@ -3,8 +3,7 @@
 //  Algorithm Design C++
 //
 //  Created by Jason Thomas on 7/23/16.
-//  Copyright © 2016 Jason Thomas. All rights reserved.
-//
+
 
 
 
